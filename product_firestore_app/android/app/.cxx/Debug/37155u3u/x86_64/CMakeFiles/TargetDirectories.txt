@@ -1,0 +1,2 @@
+C:/Users/Lenovo/Desktop/flutter_sample/2-take-home-Chakhrit1131/product_firestore_app/android/app/.cxx/Debug/37155u3u/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/flutter_sample/2-take-home-Chakhrit1131/product_firestore_app/android/app/.cxx/Debug/37155u3u/x86_64/CMakeFiles/rebuild_cache.dir

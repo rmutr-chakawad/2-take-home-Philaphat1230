@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714045849388",
+    "project_id": "good-day-flutter-535a1",
+    "storage_bucket": "good-day-flutter-535a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714045849388:android:9a92d6632df1af5609f689",
+        "android_client_info": {
+          "package_name": "com.example.product_firestore_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQLSOocavxEZno0qee3uHt4-NgJtvPeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
